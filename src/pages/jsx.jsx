@@ -8,7 +8,7 @@ export default function Jsx(){
     }
 
     return(
-        <Layout titulo='Entendendo o JSXs'>
+        <Layout titulo='Entendendo o JSX'>
             <div>
                 {titulo}
                 {subtitulo()}
